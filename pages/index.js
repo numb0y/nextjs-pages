@@ -10,7 +10,7 @@ import db from "../images/db.png"
 import conex from "../images/conexa.png"
 import pcchar from "../images/pccharacter.png"
 import controle from "../images/controle.png"
-import secitex from ".../images/secitex.png"
+import secitex from "./images/secitex.png"
 
 export default function Home() {
   return (
