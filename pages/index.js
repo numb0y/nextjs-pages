@@ -2,15 +2,15 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
-import logonud from "/images/logonud.png"
-import logoprin from"/images/logoprin.png"
-import city from "/images/city.png"
-import pc from "/images/computador.png"
-import db from "/images/db.png"
-import conex from "/images/conexa.png"
-import pcchar from "/images/pccharacter.png"
-import controle from "/images/controle.png"
-import secitex from "/images/secitex.png"
+import logonud from "../images/logonud.png"
+import logoprin from"../images/logoprin.png"
+import city from "../images/city.png"
+import pc from "../images/computador.png"
+import db from "../images/db.png"
+import conex from "../images/conexa.png"
+import pcchar from "../images/pccharacter.png"
+import controle from "../images/controle.png"
+import secitex from "../images/secitex.png"
 
 export default function Home() {
   return (
